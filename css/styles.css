@@ -17,8 +17,8 @@
 }
 
 .jumbotron {
-  padding: 70px 30px 70px 30px;
   margin: 0px auto;
+  padding: 70px 30px;
   background: #9575CD;
   color: floralwhite;
 }
@@ -36,4 +36,20 @@ body {
 
 .navbar-dark {
   background-color: #512DA8;
+}
+
+#jumbo-logo {
+  margin-bottom: 30%;
+}
+
+#reserve-button {
+  width: 77%;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 2%;
 }
